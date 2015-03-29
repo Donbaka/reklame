@@ -3,46 +3,56 @@
         "title": "PT. XYZ",
         "alamat": "Baliwerti",
         "nomorForm": "T - 5107744"
+        "status": "Selesai"
     },
     {
         "title": "PT. ABCI",
         "alamat": "Panjangjiwo",
         "nomorForm": "T - 5107789"
+        "status": "Selesai"
+
     },
     {
         "title": "CV. MEDIA AZY",
         "alamat": "MERR",
         "nomorForm": "T - 5104543"
+        "status": "Selesai"
     },
     {
         "title": "CV. QWERT",
         "alamat": "Kertajaya",
         "nomorForm": "T - 5105633"
+        "status": "Selesai"
     },
     {
         "title": "CV. IOPU",
         "alamat": "Kertajaya",
         "nomorForm": "T - 1236789"
+        "status": "Selesai"
     },
     {
         "title": "CV. GHJASD",
         "alamat": "Baliwerti",
         "nomorForm": "T - 5110232"
+        "status": "Selesai"
     },
     {
         "title": "CV. APAA",
         "alamat": "MERR",
         "nomorForm": "T - 1231892"
+        "status": "Selesai"
     },
     {
         "title": "CV. IOPU",
         "alamat": "Bratang Gede",
         "nomorForm": "T - 5107543"
+        "status": "Selesai"
     },
     {
         "title": "CV. JKLi",
         "alamat": "Baliwerti",
         "nomorForm": "T - 5107712"
+        "status": "Selesai"
     }
 
 ]

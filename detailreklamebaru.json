@@ -1,0 +1,60 @@
+[
+    {
+        "nama": "Reklame Huehe 1",
+        "tgl_verifikasi": "2014-09-09",
+        "jenis_billboard": "Billboard (Papan Tiang Dengan Penerangan)",
+        "jenis_produk": "Rokok/Minuman Keras",
+		"letak": "Luar Ruangan",
+        "status_tanah": "Tanah Swasta",
+        "lokasi": "Persil",
+        "batas_ijin": "2013-06-19 s/d 2014-09-09",
+		"alamat": "Tegal Mulyorejo Baru",
+        "kecamatan": "2014-09-09",
+        "nipr": "-",
+        "sudut_pandang": "2"
+    },
+    {
+        "nama": "Reklame Huehe 2",
+        "tgl_verifikasi": "2014-09-09",
+        "jenis_billboard": "Billboard (Papan Tiang Dengan Penerangan)",
+        "jenis_produk": "Minuman",
+		"letak": "Luar Ruangan",
+        "status_tanah": "Tanah Pemerintah",
+        "lokasi": "Persil",
+        "batas_ijin": "2013-06-19 s/d 2014-09-09",
+		"alamat": "Klampis",
+        "kecamatan": "2014-09-09",
+        "nipr": "-",
+        "sudut_pandang": "4"
+
+    },
+    {
+        "nama": "Reklame Huehe 3",
+        "tgl_verifikasi": "2014-09-09",
+        "jenis_billboard": "Billboard (Papan Tiang Dengan Penerangan)",
+        "jenis_produk": "Daleman",
+		"letak": "Luar Ruangan",
+        "status_tanah": "Tanah Swasta",
+        "lokasi": "Persil",
+        "batas_ijin": "2013-06-19 s/d 2014-09-09",
+		"alamat": "Keputih",
+        "kecamatan": "2014-09-09",
+        "nipr": "-",
+        "sudut_pandang": "2"
+    },
+    {
+        "nama": "Reklame Huehe 4",
+        "tgl_verifikasi": "2014-09-09",
+        "jenis_billboard": "Billboard (Papan Tiang Dengan Penerangan)",
+        "jenis_produk": "Sirup",
+		"letak": "Luar Ruangan",
+        "status_tanah": "Tanah Swasta",
+        "lokasi": "Persil",
+        "batas_ijin": "2013-06-19 s/d 2014-09-09",
+		"alamat": "Gebang Wetan",
+        "kecamatan": "2014-09-09",
+        "nipr": "-",
+        "sudut_pandang": "2"
+    }
+
+]

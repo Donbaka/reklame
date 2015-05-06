@@ -1,26 +1,26 @@
 [
     {
         "nama": "Reklame Huehe 1",
-	"latitude": -7.269705,
-        "longitude": 112.753076,
+	"latitude": "-7.269705",
+        "longitude": "112.753076",
         "alamat": "Tegal Mulyorejo Baru"
     },
     {
         "nama": "Reklame Huehe 2",
-	"latitude": -7.2489515,
-        "longitude": 112.7732462,
+	"latitude": "-7.2489515",
+        "longitude": "112.7732462",
         "alamat": "Klampis"
     },
     {
         "nama": "Reklame Huehe 3",
-	"latitude": -7.2442791,
-        "longitude": 112.7703923,
+	"latitude": "-7.2442791",
+        "longitude": "112.7703923",
         "alamat": "Rungkut"
     },
     {
         "nama": "Reklame Huehe 4",
-	"latitude": -7.2447847,
-        "longitude": 112.7670342,
+	"latitude": "-7.2447847",
+        "longitude": "112.7670342",
         "alamat": "Sukolilo"
     }
 
